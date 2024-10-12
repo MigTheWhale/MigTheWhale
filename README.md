@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MigTheWhale
 - 👀 I’m interested in Oak and React.JS
-- 🌱 I’m currently learning Deno and Typescript
+- 🌱 I’m currently learning Deno, C# and Typescript
 - 😄 Pronouns: He/They
 
 <!---
